@@ -1,5 +1,5 @@
 import { createServer } from "http";
-import fs, { readvSync } from "fs";
+import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 
